@@ -29,13 +29,20 @@ Abra o arquivo index.html em seu navegador.
 ## 📂 Estrutura do Projeto
 
 📦 **jogo-do-numero-secreto**
-├── 📄 **index.html**          # O arquivo principal que contém a estrutura do jogo.
-├── 📁 css
-│   └── 🎨 **style.css**      # Arquivo de estilos que define o layout e aparência dos elementos.
-├── 📁 js
-│   └── 📜 **app.js**          # Contém toda a lógica do jogo, gerenciando as interações do usuário.
-└── 📁 img
-    └── 🖼️ **read1.gif**       # Pasta que contém imagens utilizadas no jogo, incluindo o GIF de demonstração.
+
+📄 **index.html**: O arquivo principal que contém a estrutura do jogo.
+
+📁 **css**
+
+🎨 **style.css**: Arquivo de estilos que define o layout e aparência dos elementos.
+
+📁 **js**
+
+📜 **app.js**: Contém toda a lógica do jogo, gerenciando as interações do usuário.
+
+📁 **img**
+
+🖼️ **read1.gif**: Pasta que contém imagens utilizadas no jogo, incluindo o GIF de demonstração.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
