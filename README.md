@@ -1,6 +1,6 @@
 # 🎲 Jogo do Número Secreto
 
-Bem-vindo ao **Jogo do Número Secreto**! Este jogo desafiador e divertido irá testar suas habilidades de adivinhação enquanto você tenta descobrir o número secreto com o menor número de tentativas possível. 
+Bem-vindo ao **Jogo do Número Secreto**! Este jogo desafiador e divertido irá testar suas habilidades de adivinhação enquanto você tenta descobrir o número secreto com o menor número de tentativas possível.
 
 ## 📜 Descrição
 
@@ -18,8 +18,29 @@ O Jogo do Número Secreto é uma experiência interativa onde você compete cont
 
 ## 🛠️ Configuração
 
-Para rodar o jogo localmente, siga estas etapas:
+## 1. Clone este repositório para sua máquina local:
+   git clone https://github.com/camila-canoa/jogo-do-numero-secreto.git
 
-1. Clone este repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-do-numero-secreto.git
+## 2. Navegue até o diretório do projeto:
+
+cd jogo-do-numero-secreto
+Abra o arquivo index.html em seu navegador.
+
+## 📂 Estrutura do Projeto
+
+📦 **jogo-do-numero-secreto**
+├── 📄 **index.html**          # O arquivo principal que contém a estrutura do jogo.
+├── 📁 css
+│   └── 🎨 **style.css**      # Arquivo de estilos que define o layout e aparência dos elementos.
+├── 📁 js
+│   └── 📜 **app.js**          # Contém toda a lógica do jogo, gerenciando as interações do usuário.
+└── 📁 img
+    └── 🖼️ **read1.gif**       # Pasta que contém imagens utilizadas no jogo, incluindo o GIF de demonstração.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## 📧 Contato
+Para mais informações ou sugestões, entre em contato: https://www.linkedin.com/in/camilarezendeo1101/
+
+## Divirta-se jogando e boa sorte em descobrir o número secreto! 🎉🔍
